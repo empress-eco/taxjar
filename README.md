@@ -1,5 +1,5 @@
 <div align="center">
-  ![Taxjar Integration Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
+  <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
   <h1 align="center">Empress Taxjar Integration: E-commerce Tax Management Simplified</h1>
   <p align="center">
     An efficient, reliable, and user-centric solution for automatic sales tax calculation, reporting, and filings for your e-commerce business.
